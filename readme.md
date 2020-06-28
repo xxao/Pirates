@@ -1,5 +1,8 @@
 # The Pirates
 
+Working on...
+
+
 ## Print the cards
 
 In order to print the cards you need to download and print all the PDFs located in the Prints folder. Be sure to use good quality **double-sided photo paper**. I was very happy with results on a 230 g/m2 paper with matte finish.
@@ -12,6 +15,7 @@ The game consists of two types of cards, each should be printed with different b
 
 Note that the background itself is drawn a few millimeters bigger than the faces to eliminate white edges caused by inaccurate printing alignment. Keep that in mind and always use the faces to cut out individual cards. A paper cutter is highly recommended.
 
+
 ## What else you need
 
 Once the cards are printed and cut, there are still some additional items you need in order to start playing.
@@ -22,6 +26,7 @@ Once the cards are printed and cut, there are still some additional items you ne
 
 - **Two dice** of your choice.
 
+
 ## Prepare the game
 
 To prepare the main board, lay down the grid of 11x11 with cards having the blue see-like background (face down). Just in the middle, there should be the dice card with no coins (face up). (This card should be easy to find, since it has the brown wood-like background.) 
@@ -30,4 +35,8 @@ Depending on number of players, put one ship with figures to the middle of each 
 
 ## The cards
 
-# Basic rules
+Working on...
+
+## Basic rules
+
+Working on...
