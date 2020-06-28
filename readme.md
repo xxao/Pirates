@@ -20,11 +20,11 @@ Note that the background itself is drawn a few millimeters bigger than the faces
 
 Once the cards are printed and cut, there are still some additional items you need in order to start playing.
 
-- **Each player needs three figures**. Those should be easily distinguishable from other players. You can use the color figures from _Man Don't Get Angry_ or your favorite LEGO minifigures.
+- Each player needs three figures. Those should be easily distinguishable from other players. You can use the color figures from _Man Don't Get Angry_ or your favorite LEGO minifigures.
 
-- A pack of **some nice coins** to represent the treasure. Again, you can use some LEGO pieces or there are several options available on Amazon.
+- A pack of some nice coins to represent the treasure. Again, you can use some LEGO pieces or there are several options available on Amazon.
 
-- **Two dice** of your choice.
+- Two dice of your choice.
 
 
 ## Prepare the game
