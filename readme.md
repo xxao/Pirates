@@ -44,7 +44,7 @@ These are the main cards creating the playing board and providing the game featu
 ![Blue Ship][ship_blue]
 
 ## Basic rules
-Rules are indeed very basic... and feel free to modify them as you like. Look at the rules PDF inside the [Prints](https://github.com/xxao/Pirates/tree/master/Prints) folder.
+Rules are indeed very basic... and feel free to modify them as you like. Look at the _rules.pdf_ inside the [Prints](https://github.com/xxao/Pirates/tree/master/Prints) folder.
 
 [bgr_sea]: https://raw.githubusercontent.com/xxao/pirates/master/Images/Back.png "Dice Table"
 [bgr_table]: https://raw.githubusercontent.com/xxao/pirates/master/Images/Table.png "Dice Table"
