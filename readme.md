@@ -1,6 +1,7 @@
 # The Pirates
 
-Working on...
+
+![Pirates](https://raw.githubusercontent.com/xxao/Pirates/master/Images/pirates.jpg)
 
 ## Print the cards
 
